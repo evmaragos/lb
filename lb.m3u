@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MTV.lb", group-title = "Lebanon",MTV Lebanon
+#EXTINF:-1 tvg-id="MTV.lb" group-title="Lebanon",MTV Lebanon
 https://1333578254.rsc.cdn77.org/1537084837/playlist.m3u8?v=87498271
-#EXTINF:-1 tvg-id="Jadeed.lb", group-title = "Lebanon",Al Jadeed
+#EXTINF:-1 tvg-id="Jadeed.lb" group-title="Lebanon",Al Jadeed
 https://tv.ipslow.com/tv199_www.elahmad.com_aljadeed/index.m3u8?token=15cb57fda5ca62261f5efae0bd668029c65c7bec-feb3c06bd8f080026173f8ca7a3d3c94-1685136311-1685125511
-#EXTINF:-1 tvg-id="LBC.lb", group-title = "Lebanon",LBC
+#EXTINF:-1 tvg-id="LBC.lb" group-title="Lebanon",LBC
 https://tv.ipslow.com/tv199_www.elahmad.com_lbc/index.m3u8?token=1138ce4e48088316166b8ab72982ae3336a8b36d-9055f97797a3fb761d66c8d2ddfd5b00-1685136831-1685126031
