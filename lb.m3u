@@ -4,6 +4,6 @@ https://1333578254.rsc.cdn77.org/1537084837/playlist.m3u8?v=87498271
 #EXTINF:-1 tvg-id="Jadeed.lb" group-title="Lebanon",Al Jadeed
 https://tv.ipslow.com/tv199_www.elahmad.com_aljadeed/index.m3u8?token=a2f8f60c7470ee6611f3b73a274ed4c62c0b55d4-01be16fcda1088b34e7cd5a83d63eab8-1685220841-1685210041
 #EXTINF:-1 tvg-id="LBC.lb" group-title="Lebanon",LBC
-https://tv.ipslow.com/tv199_www.elahmad.com_lbc/index.m3u8?token=1138ce4e48088316166b8ab72982ae3336a8b36d-9055f97797a3fb761d66c8d2ddfd5b00-1685136831-1685126031
-:-1 tvg-id="LBC.ro" group-title="Rotana",LBC Rotana
+http://54.167.175.109/index.php/http://mysat-live.ercdn.net/lbccustom/lbccustom.m3u8?st=6tjDpa_k4MjlXeSZFxZ1Wg&e=1685256125token=1138ce4e48088316166b8ab72982ae3336a8b36d-9055f97797a3fb761d66c8d2ddfd5b00-1685136831-1685126031
+#EXTINF:-1 tvg-id="LBC.ro" group-title="Rotana",LBC Rotana
 https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
